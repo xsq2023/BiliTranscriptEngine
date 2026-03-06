@@ -1,0 +1,22 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#F8F3E8"/>
+  <rect x="52" y="52" width="1096" height="526" rx="28" fill="#0F172A"/>
+  <rect x="92" y="110" width="340" height="410" rx="22" fill="#1D4ED8"/>
+  <rect x="126" y="154" width="272" height="48" rx="10" fill="#DBEAFE"/>
+  <rect x="126" y="222" width="228" height="18" rx="9" fill="#93C5FD"/>
+  <rect x="126" y="252" width="250" height="18" rx="9" fill="#60A5FA"/>
+  <rect x="126" y="282" width="212" height="18" rx="9" fill="#3B82F6"/>
+  <rect x="126" y="332" width="180" height="74" rx="16" fill="#F59E0B"/>
+  <rect x="330" y="332" width="68" height="74" rx="16" fill="#E5E7EB"/>
+  <text x="126" y="185" fill="#0F172A" font-family="Menlo, Monaco, monospace" font-size="28" font-weight="700">BV / URL</text>
+  <text x="126" y="378" fill="#111827" font-family="Menlo, Monaco, monospace" font-size="30" font-weight="700">CC</text>
+  <text x="348" y="378" fill="#111827" font-family="Menlo, Monaco, monospace" font-size="30" font-weight="700">AI</text>
+  <text x="482" y="208" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700">Bilibili English Subtitle CLI</text>
+  <text x="482" y="278" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="28">CC-first subtitle extraction for English-learning videos.</text>
+  <text x="482" y="324" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="28">Falls back to yt-dlp + Whisper when platform captions are missing.</text>
+  <rect x="482" y="390" width="274" height="56" rx="16" fill="#10B981"/>
+  <rect x="778" y="390" width="286" height="56" rx="16" fill="#F97316"/>
+  <text x="516" y="426" fill="#052E16" font-family="Menlo, Monaco, monospace" font-size="22" font-weight="700">english_subtitle.srt</text>
+  <text x="812" y="426" fill="#431407" font-family="Menlo, Monaco, monospace" font-size="22" font-weight="700">english_transcript.txt</text>
+  <text x="482" y="504" fill="#E2E8F0" font-family="Arial, Helvetica, sans-serif" font-size="24">Input a BV id or URL. Get production-ready English subtitle files.</text>
+</svg>

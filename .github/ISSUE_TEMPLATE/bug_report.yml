@@ -1,0 +1,39 @@
+name: Bug report
+description: Report a reproducible problem with the CLI.
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: What happened?
+      placeholder: The CLI failed to...
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: Include the command you ran and the input format.
+      placeholder: |
+        1. Run ...
+        2. Use video ...
+        3. Observe ...
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+      placeholder: I expected...
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: OS, Python version, and ffmpeg availability.
+      placeholder: macOS 14, Python 3.13, ffmpeg 8.x
+    validations:
+      required: true
